@@ -1,0 +1,2 @@
+# Convolutional-Neural-Network-For-Dog-Breed-Identification
+Developed a Convolutional Neural Network (CNN) using Keras and TensorFlow to address the task of identifying the breed of a dog from an input image. The project is, specifically a multiclass classification task. By leveraging deep learning techniques, the model achieved remarkable accuracy in predicting various breeds of dogs from diverse images.
